@@ -1,0 +1,13 @@
+
+.link{
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+.link:hover{
+    color: #ffffff;
+    background-color: purple;
+    border-radius: 6px;
+    border: none;
+}
